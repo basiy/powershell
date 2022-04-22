@@ -9,7 +9,7 @@
 .NOTES
     Version:        1.1
     Author:         Yaroslav Basiy
-    Github:         YaroslavBasiy
+    Github:         yaroslavbasiy
 
 .LINK
     https://docs.microsoft.com/en-us/sysinternals/downloads/bginfo
